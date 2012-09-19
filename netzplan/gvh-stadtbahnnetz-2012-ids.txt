@@ -1,0 +1,10 @@
+path2997    zonen
+text3023    zonentexte
+path3171    regional
+path3959    strecken
+text4195    haltestellentexte
+path4665    haltestellen
+text6457    endhaltestellen
+path6539    linientexte
+path6821    symbole
+text9511    legende
